@@ -2,7 +2,7 @@
 <br><br>
 <b>This is a "React Redux" app.</b>
 <br><br>
-<img src="" alt="" width="480" height="240">
+<img src="https://github.com/gunayshakhmuradova/React-Redux-App/assets/126316477/fdda6814-4c8e-426e-9b03-c33bcbc5e615" alt="" width="480" height="240">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
